@@ -4,10 +4,8 @@ package Year2020;
 Question 1
 main page : https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27
 (Nesting Depth): https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
- */
 
-/*
-
+it is not completed ...
  */
 
 import java.io.BufferedReader;
