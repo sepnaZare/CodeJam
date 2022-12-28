@@ -15,7 +15,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Solution {
+public class Round1A_2020_PatternMatching {
 
     static Scanner sc = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
     static PrintWriter w = new PrintWriter(System.out);
